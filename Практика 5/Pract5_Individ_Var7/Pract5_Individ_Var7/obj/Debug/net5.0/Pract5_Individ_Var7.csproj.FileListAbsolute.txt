@@ -1,0 +1,16 @@
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.exe
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.deps.json
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.runtimeconfig.json
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.runtimeconfig.dev.json
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.dll
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\ref\Pract5_Individ_Var7.dll
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\bin\Debug\net5.0\Pract5_Individ_Var7.pdb
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.csproj.AssemblyReference.cache
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.GeneratedMSBuildEditorConfig.editorconfig
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.AssemblyInfoInputs.cache
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.AssemblyInfo.cs
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.csproj.CoreCompileInputs.cache
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.dll
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\ref\Pract5_Individ_Var7.dll
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.pdb
+G:\!ОАП_ДЛЯ ДАНИЛА\Pract5_Individ_Var7\Pract5_Individ_Var7\obj\Debug\net5.0\Pract5_Individ_Var7.genruntimeconfig.cache

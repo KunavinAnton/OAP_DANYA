@@ -1,0 +1,16 @@
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.exe
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.deps.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.runtimeconfig.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.runtimeconfig.dev.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\bin\Debug\net5.0\Zad2_3.pdb
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.csproj.AssemblyReference.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.AssemblyInfoInputs.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.AssemblyInfo.cs
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.csproj.CoreCompileInputs.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\refint\Zad2_3.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.pdb
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\Zad2_3.genruntimeconfig.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad2_3\Zad2_3\obj\Debug\net5.0\ref\Zad2_3.dll

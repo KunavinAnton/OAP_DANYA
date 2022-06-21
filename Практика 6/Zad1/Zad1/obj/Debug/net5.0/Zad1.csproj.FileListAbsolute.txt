@@ -1,0 +1,16 @@
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.exe
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.deps.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.dev.json
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\bin\Debug\net5.0\Zad1.pdb
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.csproj.AssemblyReference.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfoInputs.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfo.cs
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.csproj.CoreCompileInputs.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\refint\Zad1.dll
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.pdb
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\Zad1.genruntimeconfig.cache
+E:\!ОАП_ДЛЯ ДАНИЛА\Практика 6\Zad1\Zad1\obj\Debug\net5.0\ref\Zad1.dll
